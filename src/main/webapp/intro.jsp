@@ -10,7 +10,11 @@
 	<link rel="stylesheet" href="./css/intro-style.css">
 	<link rel="icon" href="./img/icon.png">
 	
-	<script src="https://code.jquery.com/jquery-3.2.1.js"></script>
+	<script
+  src="https://code.jquery.com/jquery-3.2.1.js"
+  integrity="sha384-oqVuAfXRKap7fdgcCY5uykM6+R9GqQ8K/uxy9rx7HNQlGYl1kPzQho1wx4JwY8wC"// ho preso la stringa di esempio 
+  ma si può generare o con una funzione o dal sito "https://www.srihash.org/"
+  crossorigin="anonymous"></script>
 </head>
 <body>
 
