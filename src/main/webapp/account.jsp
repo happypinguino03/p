@@ -5,6 +5,7 @@
 	}
 %>
 <jsp:useBean id="registeredUser" class="model.UserBean" scope="session"/>
+<%@ page errorPage = "PaginaErrore.jsp" %>
 
 <!DOCTYPE html>
 <html>
